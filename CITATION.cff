@@ -9,6 +9,8 @@ authors:
 repository-code: "https://github.com/yMarcosGabriel/thz-dra-bayesian-optimization"
 license: MIT
 version: 1.0.0
+doi: 10.5281/zenodo.24282591
+url: https://doi.org/10.5281/zenodo.24282591
 keywords:
   - Bayesian optimization
   - Gaussian processes
