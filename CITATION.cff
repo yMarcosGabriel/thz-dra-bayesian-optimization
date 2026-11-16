@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite the archived release of this software."
+type: software
+title: "Bayesian Optimization for Terahertz Rectangular Dielectric Resonator Antenna Inverse Design"
+authors:
+  - family-names: Santos
+    given-names: Marcos G. F.
+    affiliation: Universidade Federal do Pará
+repository-code: "https://github.com/yMarcosGabriel/thz-dra-bayesian-optimization"
+license: MIT
+version: 1.0.0
+keywords:
+  - Bayesian optimization
+  - Gaussian processes
+  - terahertz antennas
+  - inverse design
+  - HFSS
