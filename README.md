@@ -1,5 +1,7 @@
 # Bayesian optimization for THz rectangular dielectric resonator antennas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24282590.svg)](https://doi.org/10.5281/zenodo.24282590)
+
 Python implementation of feasibility-aware Bayesian optimization for the
 inverse design of micro-scale rectangular dielectric resonator antennas (DRAs).
 Ansys HFSS evaluates candidate geometries; a Gaussian-process regressor
@@ -85,9 +87,12 @@ python -m pytest
 
 ## Citation and license
 
-Citation metadata is provided in [`CITATION.cff`](CITATION.cff). A DOI will
-be added **after** the new repository's first release is archived on Zenodo.
-Do not use the DOI of the earlier, separate repository for this code.
+The archived software version **v1.0.0** should be cited with its
+[version-specific Zenodo DOI](https://doi.org/10.5281/zenodo.24282591):
+`10.5281/zenodo.24282591`. Citation metadata is provided in
+[`CITATION.cff`](CITATION.cff). The Zenodo concept DOI
+`10.5281/zenodo.24282590` points to the collection of versions rather than
+the specific release. Do not use a DOI from the earlier, separate repository.
 
 Software source is distributed under the MIT license. Ansys/HFSS and
 third-party components remain subject to their own licenses.
